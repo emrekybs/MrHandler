@@ -1,7 +1,7 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-yellow)
 
 # MR.HANDLER 
-<img src="https://github.com/emrekybs/MrHandler/blob/main/hi.png">
+<img src="https://github.com/emrekybs/MrHandler/blob/main/MrHandler.png">
 MR.Handler is a specialized tool designed for responding to security incidents on Linux systems.
 It connects to target systems via SSH to execute a range of diagnostic commands, gathering crucial information such as network configurations, system logs, user accounts, and running processes.
 At the end of its operation, the tool compiles all the gathered data into a comprehensive HTML report. 
