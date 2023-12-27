@@ -13,6 +13,7 @@ This report details both the specifics of the incident response process and the 
       $ git clone https://github.com/emrekybs/MrHandler.git
       $ cd MrHandler
       $ chmod +x MrHandler.py 
+      $ python3 MrHandler.py 
 
 <img src="https://github.com/emrekybs/MrHandler/blob/main/1.png">
 
