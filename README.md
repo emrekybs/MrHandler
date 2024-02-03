@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-yellow)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-yellow)
 
 # MR.HANDLER 
 <img src="https://github.com/emrekybs/MrHandler/blob/main/MrHandler.png">
@@ -10,7 +10,7 @@ This report details both the specifics of the incident response process and the 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
       $ pip3 install colorama
       $ pip3 install paramiko
-      $ git clone https://github.com/emrekybs/MrHandler.git
+      $ git clone https://github.com/emrekybs/BlueFish.git
       $ cd MrHandler
       $ chmod +x MrHandler.py 
       $ python3 MrHandler.py 
