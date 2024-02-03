@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-yellow)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-yellow)
 
 # MR.HANDLER 
 <img src="https://github.com/emrekybs/MrHandler/blob/main/MrHandler.png">
