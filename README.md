@@ -10,12 +10,13 @@ This report details both the specifics of the incident response process and the 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
       $ pip3 install colorama
       $ pip3 install paramiko
-      $ git clone https://github.com/emrekybs/BlueFish.git
+      $ git clone https://github.com/emrekybs/MrHandler.git
       $ cd MrHandler
       $ chmod +x MrHandler.py 
       $ python3 MrHandler.py 
 
 <img src="https://github.com/emrekybs/MrHandler/blob/main/1.png">
+<img src="https://github.com/7h3pr1es7/MrHandler/blob/main/3.png">
 
 # Report 
 <img src="https://github.com/emrekybs/MrHandler/blob/main/2.png">
