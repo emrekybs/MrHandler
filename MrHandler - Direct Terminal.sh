@@ -93,7 +93,7 @@ EOF
         IFS="|" read -r command description <<<"$command_info"
         echo "<div class=\"card mt-3\">" >>"$report_name"
         echo "    <div class=\"card-header bg-dark text-white\">" >>"$report_name"
-        echo "        <h5 class=\"mb-0\">$description</h5>" >>"$report_name"
+        echo "        <h5 class=\"mb-0\">$description - $command</h5>" >>"$report_name"
         echo "    </div>" >>"$report_name"
         echo "    <div class=\"card-body\">" >>"$report_name"
         output=$(execute_command "$command")
