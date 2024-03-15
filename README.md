@@ -10,7 +10,7 @@ This report details both the specifics of the incident response process and the 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
       $ pip3 install colorama
       $ pip3 install paramiko
-      $ git clone https://github.com/bloodbane0/MrHandler.git
+      $ git clone https://github.com/emrekybs/MrHandler.git
       $ cd MrHandler
       $ chmod +x MrHandler.py 
       $ python3 MrHandler.py 
